@@ -1,0 +1,2 @@
+C:\Users\gamel\source\repos\labr10 c++\Debug\labr10 c++.exe
+C:\Users\gamel\source\repos\labr10 c++\Debug\labr10 c++.pdb
