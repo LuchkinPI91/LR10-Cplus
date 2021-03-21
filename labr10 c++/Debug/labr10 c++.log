@@ -1,7 +1,7 @@
 ﻿  labr10 c++.cpp
-C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(245,10): warning C4244: return: преобразование "int" в "float", возможна потеря данных
-C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(465,33): warning C4305: аргумент: усечение из "double" в "float"
-C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(448,11): warning C4930: students st(void): функция с прототипом не вызвана (предполагалось определение переменной?)
-C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(190): warning C4172: возвращение адреса локальной или временной переменной : sum1
-C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(205): warning C4172: возвращение адреса локальной или временной переменной : sum2
+C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(254,10): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(484,33): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(467,11): warning C4930: students st(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(199): warning C4172: возвращение адреса локальной или временной переменной : sum1
+C:\Users\gamel\source\repos\labr10 c++\labr10 c++.cpp(214): warning C4172: возвращение адреса локальной или временной переменной : sum2
   labr10 c++.vcxproj -> C:\Users\gamel\source\repos\labr10 c++\Debug\labr10 c++.exe
